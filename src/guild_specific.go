@@ -249,14 +249,26 @@ Jednocześnie przypominamy, że całość projektu powinna być zgodna z regulam
     `,
 
 	"fck": `
->>> Pisząc podanie staraj się pisać zwięźle i treściwie. Jako administratorzy nie chcemy czytać tego z przymusu tylko z przyjemnością, zainspirujcie nas to tego stopnia, że sami będziemy chcieli daną osobę zabić :).
+	## Podanie
 
-Wzór podania:
-**Kogo?:** Imię i nazwisko osoby zabijanej
-**Kto?:** Imię i nazwisko postaci która wydaje wyrok (jeżeli jest to grupa wypisz uczestników i wyznacz osobę odpowiedzialną)
-**Dlaczego?:** Uzasadnij dlaczego z perspektywy Twojej postaci zasługuje na śmierć
-**Jak?:** Jak zamierzasz to zrobić? Nie musi to być wypunktowana lista zadań, opisz jak to zrobisz pomijając nieistotne szczegóły.
-**Co potem?:** Ważne aby to nie był jednorazowy zryw, jaki wpływ na dalszą grę Twoją i innych będzie miała na akcja?
+	- **Kogo?**
+		- Imię i nazwisko osoby zabijanej
+	- **Kto?**
+		- Imię i nazwisko postaci która wydaje wyrok
+			- jeżeli jest to grupa wypisz uczestników i wyznacz osobę odpowiedzialną
+			- jeżeli zamierzasz wykorzystać inna grupę, napisz jaką i na jakich warunkach
+	- **Dlaczego?**
+		- Uzasadnij dlaczego ta postać zasługuje na śmierć. Wyjaśnij dlaczego nie można tego zrobić mniej drastycznymi sposobami oraz podaj jak najwięcej dowodów na poparcie swojego stanowiska. Wszystkie dowody muszą pochodzić z IC. Postaraj się zrobić to zwięźle lecz treściwie.
+	- **Jak?**
+		- Opisz przebieg operacji od momentu pozyskania ofiary do egzekucji. Wymyśl coś lepszego niż porwanie na siłowni i kula w łeb na odludziu. Morderstwa idealne nie będą akceptowane.
+	- **Co potem?**
+		- Opisz jakie konsekwencje lub inne wydarzenia może wywołać FCK. Jaki wpływ będzie miało to na wasze i inne powiązane ze zdarzeniem postacie? Jakie ślady planujecie zostawić dla innych i co będzie się wiązało z ich znalezieniem?
+
+	## Dodatkowe informacje
+
+	- Cała akcja musi być nadzorowana przez członka administracji lub moderacji od momentu poprzedzającego porwanie celu.
+	- Cała akcja musi być od początku do końca nagrywana przez co najmniej jedną osobę biorąca udział w akcji, na wypadek późniejszych komplikacji.
+	-  Ślady zostawiane podczas akcji muszą być obiektywne i pozwalające na odnalezienie sprawców lub powiązanie ich ze zdarzeniem.
     `,
 
 	"fcj": `
